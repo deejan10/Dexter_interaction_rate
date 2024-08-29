@@ -1,6 +1,6 @@
 # Dexter Interaction Rate
 
-This script calculates the Dexter Transfer Rate of PL quenching of CcPbCl3 Nano crystal in presence of AgNP. The calculation is based on the donor-acceptor distance and the size of the nanoparticles.
+This script calculates the Dexter Transfer Rate of PL quenching of CsPbCl3 Nano crystal in presence of AgNP. The calculation is based on the donor-acceptor distance and the size of the nanoparticles.
 
  ## Overview
 
